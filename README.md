@@ -149,19 +149,19 @@ My responsibilities included:
 
 ## 🧩 Project Structure
 
-```text
 unachem-wordpress-website/
 │
-├── screenshots/
-│   ├── homepage-desktop.png
-│   ├── homepage-mobile.png
-│   ├── services-desktop.png
-│   ├── services-mobile.png
-│   ├── contact-desktop.png
-│   └── contact-mobile.png
+├── README.md
 │
-└── README.md
-```
+├── UNACHEM_burgundy_hero_plain_under_400KB.webp
+├── ballı_business_center_at_sunset.webp
+├── collaborative_global_strategy_meeting.webp
+├── industrial_yarn_spools_in_a_textile_mill.webp
+├── ivory_satin_orange_dot_swirl.webp
+├── morning_light_through_sheer_curtains.webp
+├── olive_fabric_roll_in_minimal_warehouse.webp
+├── peach_fabric_waves_with_water_droplets.webp
+└── textile_factory_machinery_hall.webp
 
 > Note: This repository contains project documentation and visual previews. The complete production website files and private client data are not included.
 
