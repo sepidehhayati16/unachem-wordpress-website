@@ -39,14 +39,17 @@ The website includes multilingual content and responsive layouts optimized for d
 ## 🛠️ Technologies & Tools
 
 * **WordPress**
+* **PHP**
 * **Elementor**
 * **Elementor Pro**
 * **WPML**
 * **Slider Revolution**
+* **Betheme**
 * **HTML5**
 * **CSS3**
 * **Responsive Web Design**
-* **The7 / Betheme ecosystem**
+* **Custom WordPress Development**
+
 
 ---
 
@@ -204,10 +207,10 @@ Specialized in:
 
 ## 🔗 Links
 
-**Live Website:**
+Live Website:
 https://unachemicals.com/
 
-**Portfolio:**
+Portfolio:
 https://sepidehhayati.ir/
 
 ---
