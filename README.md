@@ -148,7 +148,6 @@ My responsibilities included:
 ---
 
 ## 🧩 Project Structure
-
 unachem-wordpress-website/
 │
 ├── README.md
@@ -162,9 +161,6 @@ unachem-wordpress-website/
 ├── olive_fabric_roll_in_minimal_warehouse.webp
 ├── peach_fabric_waves_with_water_droplets.webp
 └── textile_factory_machinery_hall.webp
-
-> Note: This repository contains project documentation and visual previews. The complete production website files and private client data are not included.
-
 ---
 
 ## 🔒 Client & Project Information
