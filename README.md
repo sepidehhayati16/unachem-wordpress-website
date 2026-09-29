@@ -117,17 +117,33 @@ My responsibilities included:
 
 ## 📸 Project Preview
 
-### Homepage
+### Homepage & Hero
 
-Screenshots will be added soon.
+![UNACHEM Hero](UNACHEM_burgundy_hero_plain_under_400KB.webp)
 
-### Mobile Homepage
+### Textile & Industrial Sections
 
-Screenshots will be added soon.
+![Textile Factory](textile_factory_machinery_hall.webp)
 
-### Website Pages
+![Industrial Yarn](industrial_yarn_spools_in_a_textile_mill.webp)
 
-Additional screenshots of the website are available in the `screenshots` directory.
+![Olive Fabric](olive_fabric_roll_in_minimal_warehouse.webp)
+
+### Business & Global Trade
+
+![Business Center](ballı_business_center_at_sunset.webp)
+
+![Global Strategy](collaborative_global_strategy_meeting.webp)
+
+### Additional Visual Sections
+
+![UNACHEM Visual](ivory_satin_orange_dot_swirl.webp)
+
+![UNACHEM Visual](morning_light_through_sheer_curtains.webp)
+
+![UNACHEM Visual](peach_fabric_waves_with_water_droplets.webp)
+
+
 
 ---
 
