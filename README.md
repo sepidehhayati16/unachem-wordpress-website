@@ -107,14 +107,16 @@ My responsibilities included:
 * UI/UX implementation
 * WordPress development
 * Elementor page building
-* Responsive design
+* Custom PHP development
 * Custom CSS adjustments
+* Custom product management system
 * Header and navigation implementation
 * Slider and visual section configuration
-* Multilingual implementation
-* Cross-device layout adjustments
+* Multilingual implementation with WPML
+* Responsive design and cross-device layout adjustments
 * Website troubleshooting and optimization
 * Final visual refinements
+
 
 ---
 
